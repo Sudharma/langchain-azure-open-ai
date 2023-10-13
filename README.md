@@ -21,12 +21,12 @@ This example is for extracting the data and returning it into json format.
 python app.py
 ```
 
-### AzureOpenAI: Sample chatbots
+### AzureOpenAI: Sample Weather Bot
 This example is for simulating static data chatbot, where you are asking the weather of particular city.
 ```
 python weather_app.py
 ```
-### AzureOpenAI: Sample chatbots
+### AzureOpenAI: Sample Hotel Search Bot
 This example is for simulating static data hotel search, where you are searching a hotel with the budget range
 ```
 python weather_app.py
