@@ -29,5 +29,5 @@ python weather_app.py
 ### AzureOpenAI: Sample Hotel Search Bot
 This example is for simulating static data hotel search, where you are searching a hotel with the budget range
 ```
-python weather_app.py
+python hotel_app.py
 ```
